@@ -1,0 +1,7 @@
+README.md
+setup.py
+scrape_yt/__init__.py
+scrape_yt.egg-info/PKG-INFO
+scrape_yt.egg-info/SOURCES.txt
+scrape_yt.egg-info/dependency_links.txt
+scrape_yt.egg-info/top_level.txt
