@@ -2,6 +2,8 @@
 **This is a simple Youtube video and playlist downloader.**
 
 ## Installation
+* run ``` git clone https://github.com/pranayteaches/scrape_yt ```
+* than run ``` cd scrape_yt ```
 * check whether setuptools and wheel are installed ``` python -m pip install --upgrade pip setuptools wheel ```
 * Just run the setup.py by ``` pip install --user scrape_yt ```
 * Cngratulations your youtube video downloader is installed.
