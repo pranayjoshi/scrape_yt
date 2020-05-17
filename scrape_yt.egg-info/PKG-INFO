@@ -5,8 +5,13 @@ Summary: A simple youtube video and playlist downloader.
 Home-page: https://github.com/pranayteaches/scrape_yt
 Author: Pranay Joshi
 Author-email: pranayjoshi4466@gmail.com
-License: UNKNOWN
-Description: UNKNOWN
+License: MIT
+Description: # scrape_yt
+        ** This is a simple Youtube video and playlist downloader.
+        
+        # Installation
+        * Just run the setup.py by ``` python setup.py ```
+        * Cngratulations your youtube video downloader is installed.
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
