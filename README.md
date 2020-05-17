@@ -1,5 +1,5 @@
 # scrape_yt
-**This is a simple Youtube video and playlist downloader.
+**This is a simple Youtube video and playlist downloader.**
 
 ## Installation
 * check whether setuptools and wheel are installed ``` python -m pip install --upgrade pip setuptools wheel ```
